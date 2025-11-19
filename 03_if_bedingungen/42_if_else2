@@ -1,0 +1,10 @@
+let randomNumber = Math.floor(Math.random() * 9)
+console.log("Random Number:") 
+
+if (randomNumber < 5) {
+    console.log("smaller that 5") 
+} else (randomNumber == 5); {
+    console.log("number is 5")
+} else {
+    console.log("bigger than 5")
+}
