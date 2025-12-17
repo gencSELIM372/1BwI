@@ -1,15 +1,22 @@
 
-const bananaName = "banana";
-const appleName = "apple";
+let banana
+let apple
 
-const bananaPricePerKilo = 2.24;
-const applePricePerKilo = 3.45;
-const appleWeight = 0.34; // Kilo
-const bananaWeight = 0.22; // Kilo
 
-const totalPrice = (bananaPricePerKilo * bananaWeight) + (applePricePerKilo * appleWeight);
-console.log("get result:", totalPrice ."und"(2));
 
-const s = 2;
-const e = 4;
-console.log("get result", s, e);
+
+let bananaPricePerKilo = 2.14
+let applePricePerKilo = 3.43
+
+
+                 vcbf
+
+console.log(Math.round(bananaPricePerKilo * 0.34 * 17));
+console.log(Math.round(applePricePerKilo * 0.22 * 8));
+
+
+console.log(Math.round(bananaPricePerKilo * 0.34 * 1000));
+console.log(Math.round(applePricePerKilo * 0.22 * 1000));
+
+
+

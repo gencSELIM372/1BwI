@@ -12,4 +12,4 @@ if (input == password) {
 }
 
 
-    console.log(`Ihre zahl war ${input} und das password war ${password}`)
+    console.log("Ihre zahl war {input} und das password war {password")
