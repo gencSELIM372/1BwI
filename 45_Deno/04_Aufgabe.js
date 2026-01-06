@@ -7,9 +7,9 @@ else if (age < 12) {
     console.log("Du bist ein Kind");
     }
 else if (age < 30) {
-    console.log("du bist erwachsen");
-}else if (age < 50){
-    console.log("du bist mitelalt")
+    console.log("du bist Erwachsen");
+}else if (age < 5){
+    console.log("du bist Teenager");
 }else {
-    console.log("du bist ein senior")
+    console.log("du bist ein Senior")
 }
