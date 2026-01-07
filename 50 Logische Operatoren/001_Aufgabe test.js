@@ -5,6 +5,8 @@ let b = 85
 // && = und
 // >= <= prüfen Bereiche
 // parseInt = macht aus texteigaben Zahlen
+// == vergleich 
+// === streng vergleichen
 
 
 if (a == 70 || b == 85){

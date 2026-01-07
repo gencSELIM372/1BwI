@@ -7,3 +7,6 @@ if (x < 0) {
 }
 if (x == 0) 
   console.log("The number is zero");
+
+// == vergleich 
+// === streng vergleichen

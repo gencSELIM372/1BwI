@@ -5,3 +5,5 @@ for (let i = 1; i <= 100; i++) {
     summe = summe + i;
 }
 console.log(summe); 
+
+// jede Zahl wir mit jedem addiert bis 100 erreicht ist
