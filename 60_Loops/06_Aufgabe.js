@@ -1,4 +1,4 @@
-function main(){
+
     let count = parseInt(prompt("How many numbers do you want to enter"))
     let sum = 0
 
@@ -9,9 +9,7 @@ function main(){
 
     }
     console.log(sum / count)
-}
 
-main()
 
 // count = anzahl der zahlen
 // sum = summe der zahlen
